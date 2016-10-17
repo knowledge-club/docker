@@ -5,6 +5,4 @@ Docker containers wrap a piece of software in a complete filesystem that contain
 
 Below you can find articles to learn and improve your knowledge and skills in **Docker**:
 
-| ARTICLE | PT-BR | EN |
-| ------- | ----- | -- |
-| **ps** | **[read](content/pt-br/ps.md)** | **[read](content/en/ps.md)** |
+- **ps:** [en](content/en/ps.md) | [pt-br](content/pt-br/ps.md)
